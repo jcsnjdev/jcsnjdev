@@ -26,7 +26,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![JQuery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117)&nbsp;
