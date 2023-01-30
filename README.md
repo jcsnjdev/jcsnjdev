@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou trabalhando em **Desenvolvimento de Sistemas com Java, Spring Boot API REST, Hibernate e JPA, PostgreSQL, Maven, entre outros**.
 
-- 🌱 Aperfeiçoando meus conhecimentos em **Java e Spring Boot**.
+- 🌱 Aperfeiçoando meus conhecimentos em **Java e Banco de dados**.
 
 - 📫Como chegar até mim: **jcsn.jdev@gmail.com**.
 
