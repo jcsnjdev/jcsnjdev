@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE7AE9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9F79EE&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EE7AE9&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Josias+Cavalcante.;I'm+17+years+old.;I+am+from+Maceió,+AL.;Be+welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9F79EE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Josias+Cavalcante.;I'm+17+years+old.;I+am+from+Maceió,+AL.;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jcsnjdev&show_icons=true&count_private=true&hide_border=true&title_color=EE7AE9&icon_color=EE7AE9&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsnjdev&layout=compact&hide_border=true&title_color=EE7AE9&text_color=EE7AE9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jcsnjdev&show_icons=true&count_private=true&hide_border=true&title_color=9F79EE&icon_color=EE7AE9&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsnjdev&layout=compact&hide_border=true&title_color=9F79EE&text_color=9F79EE&bg_color=0d1117" />
 </div>
 
 <div align="center">  
@@ -36,4 +36,4 @@
 ![React.js](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE7AE9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9F79EE&height=120&section=footer"/>
