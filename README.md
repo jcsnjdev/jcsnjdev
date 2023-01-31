@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 Atualmente estou trabalhando com **Desenvolvimento de sistemas em Java**.
+- 🔭 Atualmente estou trabalhando em **Desenvolvimento de sistemas em Java**.
 
 - 🌱 Aperfeiçoando meus conhecimentos atuais.
 
