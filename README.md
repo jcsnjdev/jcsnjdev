@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=35&center=true&vCenter=true&width=1000&lines=Iae,+meu+nome+é+Josias+Cavalcante.;Seja+bem+vindo!+:%29;)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 Atualmente estou trabalhando em **Desenvolvimento de sistemas Java**.
+- 🔭 Atualmente estou trabalhando em **Desenvolvimento de sistemas em Java**.
 
 - 🌱 Aperfeiçoando meus conhecimentos atuais.
 
