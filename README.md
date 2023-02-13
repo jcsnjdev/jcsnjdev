@@ -4,7 +4,7 @@ Sou entusiasta de tecnologia e me encontro em constante aprendizado quando o ass
 ▶️ Diversos Cursos Online Realizados dos quais destaco: **Java**, **Spring** e **Angular**
 
 ## O que estou fazendo no momento?
-😜  Atualmente estou trabalhando com Java e Spring Boot para desenvolver sitemas web.
+😜  Atualmente estou trabalhando com Java e Spring Boot para desenvolver sistemas web.
 
 ## Principais Skills ⚙️:
 
