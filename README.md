@@ -1,9 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=35&center=true&vCenter=true&width=1000&lines=Iae,+meu+nome+é+Josias+Cavalcante.;Seja+bem+vindo!+:%29;)](https://git.io/typing-svg)
-
-- 🌱 Aperfeiçoando meus conhecimentos atuais.
-
-- 📫Como chegar até mim: **jcsn.jdev@gmail.com**.
-
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
 <a href="https://instagram.com/jcsnjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jcsnjdev" height="30" width="40" /></a>
