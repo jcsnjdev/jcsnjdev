@@ -1,12 +1,9 @@
-## Olá, me chamo Josias Cavalcante ✌️ 
+## Olá, me chamo Josias Cavalcante! ✌️ 
 Sou entusiasta de tecnologia e me encontro em constante aprendizado quando o assunto é 👨‍💻 **programação**!
 
-▶️ Diversos Cursos Online Realizados dos quais destaco: **Java**, **Spring** e **Angular**
+▶️ Diversos cursos online realizados dos quais destaco: **Java**, **Spring** e **Angular**.
 
-## O que estou fazendo no momento?
-😜  Atualmente estou trabalhando com **Java** e **Spring Boot** para desenvolver sistemas Web.
-
-## Principais Skills ⚙️:
+## Principais skills ⚙️:
 
 **Front-end:** ![ANGULAR](https://img.shields.io/badge/angular-C3002F?style=for-the-badge&logo=angular&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
