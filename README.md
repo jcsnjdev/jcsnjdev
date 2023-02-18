@@ -15,7 +15,3 @@ Sou entusiasta de tecnologia e me encontro em constante aprendizado quando o ass
 ### Back-end:
 ![JAVA](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&logo=&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring Framework-67AA3B?style=for-the-badge&logo=Spring&logoColor=white)
-
-## Onde você pode me encontrar 👀:
-
-[![instagram](https://img.shields.io/badge/instagram-ec133b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jcsnjdev/)
