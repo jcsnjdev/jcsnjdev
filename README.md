@@ -5,14 +5,14 @@ Sou entusiasta de tecnologia e me encontro em constante aprendizado quando o ass
 
 ## Principais skills ⚙️:
 
-**Front-end:**
+### Front-end:
 ![ANGULAR](https://img.shields.io/badge/angular-C3002F?style=for-the-badge&logo=angular&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-F7E018?style=for-the-badge&logo=javascript&logoColor=2E2D2B)
 ![HTML](https://img.shields.io/badge/HTML 5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS 3-006BC0?style=for-the-badge&logo=css3&logoColor=white)
  
 
-**Back-end:** 
+### Back-end:
 ![JAVA](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&logo=&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring Framework-67AA3B?style=for-the-badge&logo=Spring&logoColor=white)
 
