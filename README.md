@@ -8,7 +8,7 @@
 ### Principais skills ⚙️:
 
 #### Front-end:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,typescript,jquery,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,typescript,jquery)](https://skillicons.dev)
 
 #### Back-end:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,&theme=light)](https://skillicons.dev)
