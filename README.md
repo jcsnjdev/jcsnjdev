@@ -1,17 +1,14 @@
-## Olá, me chamo Josias Cavalcante! ✌️ 
-Sou entusiasta de tecnologia e me encontro em constante aprendizado quando o assunto é 👨‍💻 **programação**!
+### Iae, me chamo Josias Cavalcante! ✌️ 
+💭 Sou desenvolvedor fullstack Java e me encontro em constante aprendizado quando o assunto é **programação**!
+
+🧑‍💻 Trabalho em projetos aleatórios nas horas vagas, alguns estão disponíveis nos meus repositórios!
 
 ▶️ Diversos cursos online realizados dos quais destaco: **Java**, **Spring** e **Angular**.
 
-## Principais skills ⚙️:
+### Principais skills ⚙️:
 
-### Front-end:
-![ANGULAR](https://img.shields.io/badge/angular-C3002F?style=for-the-badge&logo=angular&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/javascript-F7E018?style=for-the-badge&logo=javascript&logoColor=2E2D2B)
-![HTML](https://img.shields.io/badge/HTML 5-E44D26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS 3-006BC0?style=for-the-badge&logo=CSSE&logoColor=white)
- 
+#### Front-end:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,typescript,jquery,bootstrap)](https://skillicons.dev)
 
-### Back-end:
-![JAVA](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&logo=&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring Framework-67AA3B?style=for-the-badge&logo=Spring&logoColor=white)
+#### Back-end:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,&theme=light)](https://skillicons.dev)
