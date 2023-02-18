@@ -1,4 +1,4 @@
-### Iae, me chamo Josias Cavalcante! ✌️ 
+### Iae, eu sou o Josias! :)
 💭 Sou desenvolvedor fullstack Java e me encontro em constante aprendizado quando o assunto é **programação**!
 
 🧑‍💻 Trabalho em projetos aleatórios nas horas vagas, alguns estão disponíveis nos meus repositórios!
