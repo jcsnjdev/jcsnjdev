@@ -6,4 +6,4 @@
 ▶️ Diversos cursos online realizados dos quais destaco: **Java**, **Spring** e **Angular**.
 
 ### Main skills ⚙️:
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,angular,jquery,java,spring,maven,postman,postgresql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,angular,jquery,java,spring,maven,postman,postgresql,git&theme=light)](https://skillicons.dev)
