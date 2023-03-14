@@ -1,3 +1,4 @@
+´´´sql
 CREATE TABLE me (
     name      VARCHAR(255) NOT NULL,
     github    VARCHAR(255),
@@ -22,3 +23,4 @@ VALUES (
 SELECT * 
 FROM me
 WHERE github = "github.com/jcsnjdev";
+
