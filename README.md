@@ -1,4 +1,4 @@
-´´´sql
+```sql
 CREATE TABLE me (
     name      VARCHAR(255) NOT NULL,
     github    VARCHAR(255),
@@ -12,15 +12,15 @@ CREATE TABLE me (
    
 INSERT INTO me (name, github, age, country, languages, doing)
 VALUES (
-    	"Isaque", 
+    	"Josias", 
 	"github.com/jcsnjdev",
         17, 
         "Brazil",
-        "Python, Java, HTML, CSS, JavaScript,TypeScript and SQL",
+        "Python, Java, HTML, CSS, JavaScript and SQL",
 	"Sleeping"
 );
 	
 SELECT * 
 FROM me
 WHERE github = "github.com/jcsnjdev";
-
+```
